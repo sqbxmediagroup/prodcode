@@ -163,5 +163,5 @@ There is no set list for types of suffix you can use, but it's recommended that 
 
 ## Contacts
 
-If you have any questions about ProdCode, please contact SQBX: [wecreate at sqbx dot uk](wecreate@sqbx.uk).
+If you have any questions about ProdCode, please contact SQBX: [wecreate at sqbx dot uk](mailto:wecreate@sqbx.uk).
 This page was published 07 September 2025. This is ProdCode version 3.
